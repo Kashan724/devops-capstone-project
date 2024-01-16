@@ -1,4 +1,3 @@
-"""
 Account API Service Test Suite
 
 Test cases can be run with the following:
